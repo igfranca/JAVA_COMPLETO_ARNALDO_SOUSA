@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao12/exercicos/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/exercicos/Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/operadores/Aritimeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/operadores/Atribuicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/operadores/Comparacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/operadores/Logicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao12/operadores/Unarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao13/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao13/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao13/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao13/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao13/Ternario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/ControleDeLoopBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/exercicios/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao14/exercicios/contadorDoces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +55,26 @@
     "Application.CalculadoraAreaRetangulo.executor": "Run",
     "Application.Comparacao.executor": "Run",
     "Application.Contador.executor": "Run",
+    "Application.ControleDeLoop.executor": "Run",
+    "Application.ControleDeLoopBreak.executor": "Run",
     "Application.ControleEstoquePadaria.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.For.executor": "Run",
+    "Application.IfElse.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
     "Application.Logicos.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Numero.executor": "Run",
+    "Application.PrecedenciaIperadoresAtribuicao.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.PromocaoAutomatica.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Ternario.executor": "Run",
     "Application.Unarios.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.contadorDoces.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,13 +92,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrecedenciaIperadoresAtribuicao">
-    <configuration name="Atribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao12.operadores.Atribuicao" />
+  <component name="RunManager" selected="Application.contadorDoces">
+    <configuration name="ControleDeLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14.ControleDeLoop" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao12.operadores.*" />
+          <option name="PATTERN" value="secao14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao12.exercicos.Contador" />
+    <configuration name="ControleDeLoopBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14.ControleDeLoopBreak" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao12.exercicos.*" />
+          <option name="PATTERN" value="secao14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao12.exercicos.Numero" />
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14.DoWhile" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao12.exercicos.*" />
+          <option name="PATTERN" value="secao14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrecedenciaIperadoresAtribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao12.exercicos.PrecedenciaIperadoresAtribuicao" />
+    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14.exercicios.Soma" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao12.exercicos.*" />
+          <option name="PATTERN" value="secao14.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao12.operadores.Unarios" />
+    <configuration name="contadorDoces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao14.exercicios.contadorDoces" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao12.operadores.*" />
+          <option name="PATTERN" value="secao14.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrecedenciaIperadoresAtribuicao" />
-        <item itemvalue="Application.Contador" />
-        <item itemvalue="Application.Numero" />
-        <item itemvalue="Application.Unarios" />
-        <item itemvalue="Application.Atribuicao" />
+        <item itemvalue="Application.contadorDoces" />
+        <item itemvalue="Application.Soma" />
+        <item itemvalue="Application.ControleDeLoopBreak" />
+        <item itemvalue="Application.ControleDeLoop" />
+        <item itemvalue="Application.DoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +186,8 @@
       <workItem from="1773178743675" duration="89000" />
       <workItem from="1773178943251" duration="778000" />
       <workItem from="1773179744063" duration="169000" />
-      <workItem from="1773252784303" duration="2227000" />
+      <workItem from="1773252784303" duration="2543000" />
+      <workItem from="1774215524950" duration="10506000" />
     </task>
     <servers />
   </component>
