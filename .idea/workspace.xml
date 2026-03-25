@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao13/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao13/InstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao13/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao13/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao13/Ternario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/ControleDeLoopBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/exercicios/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao14/exercicios/contadorDoces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/Bolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioComConstrutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioConstrutorDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioSobrecargaConstrutores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +46,7 @@
   "keyToString": {
     "Application.Aritimeticos.executor": "Run",
     "Application.Atribuicao.executor": "Run",
+    "Application.Bolo.executor": "Run",
     "Application.CalculadoraAreaRetangulo.executor": "Run",
     "Application.Comparacao.executor": "Run",
     "Application.Contador.executor": "Run",
@@ -60,6 +55,10 @@
     "Application.ControleEstoquePadaria.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.For.executor": "Run",
+    "Application.Funcionario.executor": "Run",
+    "Application.FuncionarioComConstrutor.executor": "Run",
+    "Application.FuncionarioConstrutorDefault.executor": "Run",
+    "Application.FuncionarioSobrecargaConstrutores.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.InstanceOf.executor": "Run",
     "Application.Logicos.executor": "Run",
@@ -92,13 +91,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.contadorDoces">
-    <configuration name="ControleDeLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14.ControleDeLoop" />
+  <component name="RunManager" selected="Application.FuncionarioSobrecargaConstrutores">
+    <configuration name="Bolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.Bolo" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14.*" />
+          <option name="PATTERN" value="secao15.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleDeLoopBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14.ControleDeLoopBreak" />
+    <configuration name="Funcionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.Funcionario" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14.*" />
+          <option name="PATTERN" value="secao15.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14.DoWhile" />
+    <configuration name="FuncionarioComConstrutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.FuncionarioComConstrutor" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14.*" />
+          <option name="PATTERN" value="secao15.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14.exercicios.Soma" />
+    <configuration name="FuncionarioConstrutorDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.FuncionarioConstrutorDefault" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14.exercicios.*" />
+          <option name="PATTERN" value="secao15.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contadorDoces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao14.exercicios.contadorDoces" />
+    <configuration name="FuncionarioSobrecargaConstrutores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.FuncionarioSobrecargaConstrutores" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao14.exercicios.*" />
+          <option name="PATTERN" value="secao15.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +159,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.contadorDoces" />
-        <item itemvalue="Application.Soma" />
-        <item itemvalue="Application.ControleDeLoopBreak" />
-        <item itemvalue="Application.ControleDeLoop" />
-        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.FuncionarioSobrecargaConstrutores" />
+        <item itemvalue="Application.FuncionarioConstrutorDefault" />
+        <item itemvalue="Application.FuncionarioComConstrutor" />
+        <item itemvalue="Application.Funcionario" />
+        <item itemvalue="Application.Bolo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -187,7 +186,9 @@
       <workItem from="1773178943251" duration="778000" />
       <workItem from="1773179744063" duration="169000" />
       <workItem from="1773252784303" duration="2543000" />
-      <workItem from="1774215524950" duration="10506000" />
+      <workItem from="1774215524950" duration="10922000" />
+      <workItem from="1774388487093" duration="200000" />
+      <workItem from="1774388761097" duration="3781000" />
     </task>
     <servers />
   </component>
