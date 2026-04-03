@@ -1,22 +1,21 @@
-package secao15.exercicios;
+package secao15;
 
-public class Funcionario {
+public class FuncionarioComConstrutor {
 
   String nome;
   String cargo;
   int idade;
 
+  FuncionarioComConstrutor(String nomeInit, String cargoInit, int idade) {
+    nome = nomeInit;
+    cargo = cargoInit;
+    this.idade = idade;
+  }
+
   public static void main(String[] args) {
 
-    Funcionario funcionario1 = new Funcionario();
-    funcionario1.nome = "João";
-    funcionario1.cargo = "Desenvolvedor";
-    funcionario1.idade = 30;
-
-    Funcionario funcionario2 = new Funcionario();
-    funcionario2.nome = "Maria";
-    funcionario2.cargo = "Gerente";
-    funcionario2.idade = 50;
+    FuncionarioComConstrutor funcionario1 = new FuncionarioComConstrutor("João", "Desenvolvedor", 30);
+    FuncionarioComConstrutor funcionario2 = new FuncionarioComConstrutor("Maria", "Gerente", 50);
 
     System.out.println("Nome: " + funcionario1.nome);
     System.out.println("Cargo: " + funcionario1.cargo);

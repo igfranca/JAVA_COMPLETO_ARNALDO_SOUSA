@@ -1,4 +1,4 @@
-package secao15.exercicios;
+package secao15;
 
 public class Bolo {
 
