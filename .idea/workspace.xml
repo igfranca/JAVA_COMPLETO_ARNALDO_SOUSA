@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao15/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/empresa/dados/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/AplicacaoPersonagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/AplicacaoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/ExecutorLivro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Personagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/SalaDeAula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/exercicios/ex01/TesteSalaDeAula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/modificadores/FolhaDePagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/modificadores/TestContador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao15/modificadores/TestePackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16/exercicios/Ex001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16/exercicios/Ex002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao16/exercicios/Ex003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/Bolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao15/Bolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao15/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioComConstrutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao15/FuncionarioComConstrutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioConstrutorDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao15/FuncionarioConstrutorDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/FuncionarioSobrecargaConstrutores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao15/FuncionarioSobrecargaConstrutores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +47,7 @@
     "Application.AplicacaoPersonagem.executor": "Run",
     "Application.AplicacaoPessoa.executor": "Run",
     "Application.Aritimeticos.executor": "Run",
+    "Application.Arrays.executor": "Run",
     "Application.Atribuicao.executor": "Run",
     "Application.Bolo.executor": "Run",
     "Application.CalculadoraAreaRetangulo.executor": "Run",
@@ -72,6 +57,9 @@
     "Application.ControleDeLoopBreak.executor": "Run",
     "Application.ControleEstoquePadaria.executor": "Run",
     "Application.DoWhile.executor": "Run",
+    "Application.Ex001.executor": "Run",
+    "Application.Ex002.executor": "Debug",
+    "Application.Ex003.executor": "Run",
     "Application.ExecutorLivro.executor": "Run",
     "Application.FolhaDePagamento (1).executor": "Run",
     "Application.FolhaDePagamento.executor": "Run",
@@ -119,13 +107,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AplicacaoPersonagem">
-    <configuration name="AplicacaoPersonagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.ex01.AplicacaoPersonagem" />
+  <component name="RunManager" selected="Application.Ex003">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao16.Arrays" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao15.exercicios.ex01.*" />
+          <option name="PATTERN" value="secao16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +121,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AplicacaoPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao15.exercicios.ex01.AplicacaoPessoa" />
+    <configuration name="Ex001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao16.exercicios.Ex001" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao15.exercicios.ex01.*" />
+          <option name="PATTERN" value="secao16.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao16.exercicios.Ex002" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao16.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao16.exercicios.Ex003" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao16.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,8 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AplicacaoPersonagem" />
-        <item itemvalue="Application.AplicacaoPessoa" />
+        <item itemvalue="Application.Ex003" />
+        <item itemvalue="Application.Ex002" />
+        <item itemvalue="Application.Ex001" />
+        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +198,10 @@
       <workItem from="1775079513607" duration="3230000" />
       <workItem from="1775085669793" duration="11249000" />
       <workItem from="1775174462324" duration="685000" />
-      <workItem from="1775214892867" duration="7082000" />
+      <workItem from="1775214892867" duration="7261000" />
+      <workItem from="1775231598978" duration="2000" />
+      <workItem from="1775322128506" duration="23000" />
+      <workItem from="1775323207227" duration="3563000" />
     </task>
     <servers />
   </component>
