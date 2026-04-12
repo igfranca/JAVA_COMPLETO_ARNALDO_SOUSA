@@ -1,23 +1,23 @@
 package secao17;
 
-class Animal {
-  public void comer() {
-    System.out.println("O animal come");
+/// Overriding sobre escrita de metodo
+class Animal2 {
+  public void fazerSom() {
+    System.out.println("O animal faz um som");
   }
 }
 
-class Cachorro extends Animal {
-  public void latir() {
+class Cachorro2 extends Animal2 {
+  public void fazerSom() {
     System.out.println("O cachorro late");
   }
 }
 
-public class TestHeranca {
+public class TestOverriding {
   public static void main(String[] args) {
-    Cachorro dog = new Cachorro();
-    
-    dog.latir();
-    
-    dog.comer();
+    Cachorro2 dog = new Cachorro2();
+
+    dog.fazerSom();
+
   }
 }

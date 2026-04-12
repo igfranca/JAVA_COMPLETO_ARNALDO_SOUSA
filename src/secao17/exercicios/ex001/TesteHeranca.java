@@ -1,4 +1,4 @@
-package secao17.exercicios;
+package secao17.exercicios.ex001;
 
 public class TesteHeranca {
   public static void main(String[] args) {

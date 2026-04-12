@@ -23,5 +23,6 @@ public class TestSuperDois {
   public static void main(String[] args) {
     Cachorro4 dog = new Cachorro4("Max", "Pastor Australiano");
     System.out.println("O nome do animal: " + dog.nome);
+    System.out.println("A raça do cachorro: " + dog.raca);
   }
 }
