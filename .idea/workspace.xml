@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/TestHeranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/TestOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/TestSuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/TestSuperDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex001/Assistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex001/Funcionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex001/TesteHeranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao18/TestAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/Previdencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao18/exercicios/SuperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao19/TestTinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao20/TestInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao18/TestAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao18/TestAnnotations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +53,7 @@
     "Application.Arrays.executor": "Run",
     "Application.Atribuicao.executor": "Run",
     "Application.Bolo.executor": "Run",
+    "Application.Calculadora.executor": "Run",
     "Application.CalculadoraAreaRetangulo.executor": "Run",
     "Application.Comparacao.executor": "Run",
     "Application.Contador.executor": "Run",
@@ -71,6 +66,7 @@
     "Application.Ex002.executor": "Debug",
     "Application.Ex003.executor": "Run",
     "Application.ExecutorLivro.executor": "Run",
+    "Application.FinalVariable.executor": "Run",
     "Application.FolhaDePagamento (1).executor": "Run",
     "Application.FolhaDePagamento.executor": "Run",
     "Application.For.executor": "Run",
@@ -84,19 +80,27 @@
     "Application.Main.executor": "Run",
     "Application.Numero.executor": "Run",
     "Application.PrecedenciaIperadoresAtribuicao.executor": "Run",
+    "Application.Previdencia (1).executor": "Run",
+    "Application.Previdencia.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.PromocaoAutomatica.executor": "Run",
     "Application.Soma.executor": "Run",
+    "Application.SuperClasses.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.Ternario.executor": "Run",
+    "Application.TestAnnotations (1).executor": "Run",
+    "Application.TestAnnotations (2).executor": "Run",
+    "Application.TestAnnotations (3).executor": "Run",
     "Application.TestAnnotations.executor": "Run",
     "Application.TestContador.executor": "Run",
     "Application.TestHeranca.executor": "Run",
+    "Application.TestInterface.executor": "Run",
     "Application.TestOverriding.executor": "Run",
     "Application.TestStatic.executor": "Run",
     "Application.TestSuperClass.executor": "Run",
     "Application.TestSuperDois.executor": "Run",
+    "Application.TestTinalKeyword.executor": "Run",
     "Application.TesteHeranca.executor": "Run",
     "Application.TesteSalaDeAula.executor": "Run",
     "Application.Unarios.executor": "Run",
@@ -124,7 +128,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -134,12 +138,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="TestAnnotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao18.TestAnnotations" />
+    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao20.TestInterface" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao18.*" />
+          <option name="PATTERN" value="secao20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,7 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestAnnotations" />
+        <item itemvalue="Application.TestInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +186,7 @@
       <workItem from="1775421960649" duration="201000" />
       <workItem from="1775424964803" duration="1603000" />
       <workItem from="1776015429100" duration="3480000" />
+      <workItem from="1776019040589" duration="155000" />
     </task>
     <servers />
   </component>

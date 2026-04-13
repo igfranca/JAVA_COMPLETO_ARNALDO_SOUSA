@@ -1,14 +1,16 @@
 package secao18;
 
 class Animal {
-  public void fazerSom() {
+   public void fazerSom() {
     System.out.println("O animal faz um som");
   }
 }
 
 class Cachorro extends Animal {
+
+  @Override
   public void fazerSom() {
-    System.out.println("O cahcorro late");
+    System.out.println("O cachorro late");
   }
 }
 
