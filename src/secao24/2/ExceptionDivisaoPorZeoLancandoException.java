@@ -1,4 +1,4 @@
-package secao25;
+package secao244;
 
 public class ExceptionDivisaoPorZeoLancandoException {
 

@@ -1,4 +1,4 @@
-package secao25;
+package secao244;
 
 public class TestArrayException {
   public static void main(String[] args) {

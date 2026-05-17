@@ -1,6 +1,4 @@
-package secao25;
-
-import javax.swing.*;
+package secao244;
 
 public class ExemploObjetosNulos {
 
