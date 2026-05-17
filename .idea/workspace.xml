@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao24/ExemploList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao24/ExemploMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao24/ExemploSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZeoLancandoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao25/ExemploObjetosNulos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao25/TestArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao25/LambdaComCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraComInterfaceFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraPersonalizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraTradicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao27/ExemploIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao27/ExemploNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao27/Saudacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZeoLancandoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExceptionDivisaoPorZeoLancandoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExceptionDivisaoPorZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao25/ExemploObjetosNulos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExemploObjetosNulos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao25/TestArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/TestArrayException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +24,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="87" />
+    <option name="cachedIndexableFilesCount" value="89" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +40,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000004775224528" />
+      <entry key="S2" value="1.0467471439285951" />
+      <entry key="S5" value="1.3027898645876788" />
+      <entry key="S10" value="1.8076224463545412" />
+      <entry key="S30" value="5.063144913692933" />
+      <entry key="S60" value="8.356815497805128" />
+      <entry key="M2" value="11.757844049475118" />
+      <entry key="M5" value="17.286710939350606" />
+      <entry key="M10" value="21.336167167895066" />
+      <entry key="M15" value="23.190193729333135" />
+      <entry key="M30" value="25.530253839681887" />
+      <entry key="H1" value="31.05158633410622" />
+      <entry key="H2" value="52.5407246065064" />
+      <entry key="H4" value="88.41717737320971" />
+      <entry key="D1" value="154.77683223232037" />
+      <entry key="W1" value="171.92457761294122" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="7.105427357600997E-15" />
+      <entry key="MS500" value="0.0014801919594828112" />
+      <entry key="S2" value="0.19614602447418772" />
+      <entry key="S5" value="0.5212328804205606" />
+      <entry key="S10" value="0.7219645977612522" />
+      <entry key="S30" value="0.8971114102697165" />
+      <entry key="S60" value="0.9511513944011893" />
+      <entry key="M2" value="1.036463972590098" />
+      <entry key="M5" value="1.3206479522474361" />
+      <entry key="M10" value="1.5703007302124574" />
+      <entry key="M15" value="1.688450656095923" />
+      <entry key="M30" value="1.838260825197374" />
+      <entry key="H1" value="2.142726927483247" />
+      <entry key="H2" value="3.21706649578679" />
+      <entry key="H4" value="4.943551549987445" />
+      <entry key="D1" value="8.061113845202437" />
+      <entry key="W1" value="8.857477242704995" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.01251671683733787" />
+      <entry key="MS500" value="0.4168769518779995" />
+      <entry key="S2" value="0.9866642973523495" />
+      <entry key="S5" value="1.652015190429361" />
+      <entry key="S10" value="2.4080703748308188" />
+      <entry key="S30" value="5.874838401609593" />
+      <entry key="S60" value="9.243446849340117" />
+      <entry key="M2" value="12.749174469557438" />
+      <entry key="M5" value="18.57846397146932" />
+      <entry key="M10" value="22.887603316018925" />
+      <entry key="M15" value="24.86468149513612" />
+      <entry key="M30" value="27.36064704866642" />
+      <entry key="H1" value="33.189374573274584" />
+      <entry key="H2" value="55.75344269209374" />
+      <entry key="H4" value="93.35701138155436" />
+      <entry key="D1" value="162.83685520837747" />
+      <entry key="W1" value="180.78188169458616" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -61,6 +125,9 @@
     "Application.CaixaGenericaMain.executor": "Run",
     "Application.Calculadora.executor": "Run",
     "Application.CalculadoraAreaRetangulo.executor": "Run",
+    "Application.CalculadoraComInterfaceFuncional.executor": "Run",
+    "Application.CalculadoraPersonalizada.executor": "Run",
+    "Application.CalculadoraTradicional.executor": "Run",
     "Application.Comparacao.executor": "Run",
     "Application.Contador.executor": "Run",
     "Application.ControleDeLoop.executor": "Run",
@@ -74,8 +141,10 @@
     "Application.ExceptionDivisaoPorZeoLancandoException.executor": "Run",
     "Application.ExceptionDivisaoPorZero.executor": "Run",
     "Application.ExecutorLivro.executor": "Run",
+    "Application.ExemploIO.executor": "Run",
     "Application.ExemploList.executor": "Run",
     "Application.ExemploMap.executor": "Run",
+    "Application.ExemploNIO.executor": "Run",
     "Application.ExemploObjetosNulos.executor": "Run",
     "Application.ExemploSet.executor": "Run",
     "Application.FinalVariable.executor": "Run",
@@ -89,6 +158,7 @@
     "Application.HelloWorld.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.InstanceOf.executor": "Run",
+    "Application.LambdaComCollection.executor": "Run",
     "Application.Logicos.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Numero.executor": "Run",
@@ -97,6 +167,7 @@
     "Application.Previdencia.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.PromocaoAutomatica.executor": "Run",
+    "Application.Saudacao.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.SuperClasses.executor": "Run",
     "Application.Switch.executor": "Run",
@@ -154,13 +225,65 @@
       <recent name="G:\Meu Drive\Cursos\Programming\JAVA\JAVA_COMPLETO_ARNALDO_SOUSA\src\secao17" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ExceptionDivisaoPorZeoLancandoException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao25.ExceptionDivisaoPorZeoLancandoException" />
+  <component name="RunManager" selected="Application.ExemploNIO">
+    <configuration name="CalculadoraComInterfaceFuncional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao26.CalculadoraComInterfaceFuncional" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao25.*" />
+          <option name="PATTERN" value="secao26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraPersonalizada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao26.CalculadoraPersonalizada" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao27.ExemploIO" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao27.ExemploNIO" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saudacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao27.Saudacao" />
+      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,9 +293,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionDivisaoPorZeoLancandoException" />
+        <item itemvalue="Application.ExemploNIO" />
+        <item itemvalue="Application.ExemploIO" />
+        <item itemvalue="Application.Saudacao" />
+        <item itemvalue="Application.CalculadoraPersonalizada" />
+        <item itemvalue="Application.CalculadoraComInterfaceFuncional" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
