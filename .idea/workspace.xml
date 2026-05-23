@@ -5,9 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao28/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao28/ExemploSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao15/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/ExemploSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/exercises/ListExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/exercises/MapExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao23/exercises/SetExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/ControleDeLoopBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/ControleDeLoopBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/exercicios/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/exercicios/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao14/exercicios/contadorDoces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao13/exercicios/contadorDoces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/Bolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/Bolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/FuncionarioComConstrutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/FuncionarioComConstrutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/FuncionarioConstrutorDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/FuncionarioConstrutorDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/FuncionarioSobrecargaConstrutores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/FuncionarioSobrecargaConstrutores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/empresa/dados/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/dados/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/AplicacaoPersonagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/AplicacaoPersonagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/AplicacaoPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/AplicacaoPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/ExecutorLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/ExecutorLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/SalaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/SalaDeAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/exercicios/ex01/TesteSalaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/ex01/TesteSalaDeAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/modificadores/FolhaDePagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/modificadores/FolhaDePagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/modificadores/TestContador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/modificadores/TestContador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao15/modificadores/TestePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao14/modificadores/TestePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16/exercicios/Ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16/exercicios/Ex002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao16/exercicios/Ex003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/TestHeranca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/TestHeranca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/TestOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/TestOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/TestSuperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/TestSuperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/TestSuperDois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/TestSuperDois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex001/Assistente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex001/Assistente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex001/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex001/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex001/TesteHeranca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex001/TesteHeranca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Escola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex002/Escola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex002/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao17/exercicios/ex002/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao16/exercicios/ex002/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao23/Brinquedos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/Brinquedos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao23/Caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/Caixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao23/CaixaGenericaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/CaixaGenericaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao24/ExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao24/ExemploMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao24/ExemploSet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,61 +84,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.125891000387731E-18" />
-      <entry key="MS500" value="3.335059220591784E-4" />
-      <entry key="S2" value="0.13513750222928297" />
-      <entry key="S5" value="0.44906618645131535" />
-      <entry key="S10" value="0.670128160574513" />
-      <entry key="S30" value="0.9190497837695892" />
-      <entry key="S60" value="1.7566160721332984" />
-      <entry key="M2" value="5.999643201462105" />
-      <entry key="M5" value="23.00358216697418" />
-      <entry key="M10" value="47.10979581237723" />
-      <entry key="M15" value="65.60879858003767" />
-      <entry key="M30" value="100.61028901015902" />
-      <entry key="H1" value="134.3557669346984" />
-      <entry key="H2" value="170.71065089751932" />
-      <entry key="H4" value="217.40505966521337" />
-      <entry key="D1" value="312.8004250389233" />
-      <entry key="W1" value="340.0108376636525" />
+      <entry key="MS100" value="1.0000000000000013" />
+      <entry key="MS500" value="1.0010539512977235" />
+      <entry key="S2" value="1.1958741824261818" />
+      <entry key="S5" value="1.8839747730248075" />
+      <entry key="S10" value="3.0121976598783045" />
+      <entry key="S30" value="5.060621365952585" />
+      <entry key="S60" value="6.280099277800804" />
+      <entry key="M2" value="8.678843431776247" />
+      <entry key="M5" value="18.42759801089614" />
+      <entry key="M10" value="43.975944092751774" />
+      <entry key="M15" value="68.88488207662104" />
+      <entry key="M30" value="117.56788215485729" />
+      <entry key="H1" value="161.27321078645016" />
+      <entry key="H2" value="207.2265869718594" />
+      <entry key="H4" value="271.17371151333805" />
+      <entry key="D1" value="543.8297743921573" />
+      <entry key="W1" value="693.6017368307572" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000002" />
-      <entry key="S10" value="1.0000000216214653" />
-      <entry key="S30" value="1.006538798228189" />
-      <entry key="S60" value="1.160138829364814" />
-      <entry key="M2" value="1.8370355652254542" />
-      <entry key="M5" value="3.826686430593258" />
-      <entry key="M10" value="6.099089550870093" />
-      <entry key="M15" value="7.618513609788791" />
-      <entry key="M30" value="10.23307308819459" />
-      <entry key="H1" value="12.594461804585729" />
-      <entry key="H2" value="14.905330893058915" />
-      <entry key="H4" value="17.51631286079375" />
-      <entry key="D1" value="22.406367418340782" />
-      <entry key="W1" value="23.754262043833204" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.72955427155641E-171" />
+      <entry key="S2" value="2.622436937212948E-43" />
+      <entry key="S5" value="9.278590783741481E-18" />
+      <entry key="S10" value="3.046077934617015E-9" />
+      <entry key="S30" value="0.0014497426191212" />
+      <entry key="S60" value="0.038456456857022904" />
+      <entry key="M2" value="0.21522225557527191" />
+      <entry key="M5" value="0.8773861300936028" />
+      <entry key="M10" value="2.4230368879559347" />
+      <entry key="M15" value="4.110657722733189" />
+      <entry key="M30" value="7.881056116883563" />
+      <entry key="H1" value="11.599927319607282" />
+      <entry key="H2" value="15.348138741706263" />
+      <entry key="H4" value="20.215139796426854" />
+      <entry key="D1" value="39.68296569122816" />
+      <entry key="W1" value="49.83520460615454" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.3100732240754615E-4" />
-      <entry key="MS500" value="0.21230672423068045" />
-      <entry key="S2" value="0.7543709155577124" />
-      <entry key="S5" value="1.2123889017656406" />
-      <entry key="S10" value="1.5220631328020067" />
-      <entry key="S30" value="1.8657608116996116" />
-      <entry key="S60" value="2.8757619755621007" />
-      <entry key="M2" value="7.789358642104937" />
-      <entry key="M5" value="26.762292526259653" />
-      <entry key="M10" value="53.13965570007394" />
-      <entry key="M15" value="73.16453846410667" />
-      <entry key="M30" value="110.79759199184515" />
-      <entry key="H1" value="146.92097704642484" />
-      <entry key="H2" value="185.59811700898433" />
-      <entry key="H4" value="234.91041590525398" />
-      <entry key="D1" value="335.2042858891828" />
-      <entry key="W1" value="363.7647140357845" />
+      <entry key="MS100" value="0.012430257558671788" />
+      <entry key="MS500" value="0.4168461644158792" />
+      <entry key="S2" value="0.9949243892675933" />
+      <entry key="S5" value="1.7754712523022411" />
+      <entry key="S10" value="2.9332130834220305" />
+      <entry key="S30" value="5.020690342111319" />
+      <entry key="S60" value="6.291939663146465" />
+      <entry key="M2" value="8.87231569697841" />
+      <entry key="M5" value="19.284660792036235" />
+      <entry key="M10" value="46.37680211293461" />
+      <entry key="M15" value="72.97163761536854" />
+      <entry key="M30" value="125.4261764460565" />
+      <entry key="H1" value="172.85588489133815" />
+      <entry key="H2" value="222.56218408559835" />
+      <entry key="H4" value="291.3794304596218" />
+      <entry key="D1" value="583.5089254554402" />
+      <entry key="W1" value="743.4362253181305" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -151,8 +201,10 @@
     "Application.IfElse.executor": "Run",
     "Application.InstanceOf.executor": "Run",
     "Application.LambdaComCollection.executor": "Run",
+    "Application.ListExercise.executor": "Run",
     "Application.Logicos.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapExercise.executor": "Run",
     "Application.Numero.executor": "Run",
     "Application.PrecedenciaIperadoresAtribuicao.executor": "Run",
     "Application.Previdencia (1).executor": "Run",
@@ -160,6 +212,7 @@
     "Application.Primitivos.executor": "Run",
     "Application.PromocaoAutomatica.executor": "Run",
     "Application.Saudacao.executor": "Run",
+    "Application.SetExercise.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.SuperClasses.executor": "Run",
     "Application.Switch.executor": "Run",
@@ -217,13 +270,18 @@
       <recent name="G:\Meu Drive\Cursos\Programming\JAVA\JAVA_COMPLETO_ARNALDO_SOUSA\src\secao17" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="java --version" />
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao28.ExemploSerializacao" />
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao15.Arrays" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao28.*" />
+          <option name="PATTERN" value="secao15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,7 +291,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploSerializacao" />
+        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
