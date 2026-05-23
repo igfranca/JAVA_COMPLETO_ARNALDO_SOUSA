@@ -2,6 +2,7 @@ package secao27.exercicios;
 
 import javax.imageio.IIOException;
 import java.io.FileWriter;
+import java.io.IOException;
 
 public class ManipulacaoArquivos {
   public static void main(String[] args) {
@@ -18,6 +19,7 @@ public class ManipulacaoArquivos {
   }
 
   private static String lerDoArquivo(String nomeArquivo) {
+    return nomeArquivo;
   }
 
   public static void escreverNoArquivo(String nomeArquivo, String conteudo) {
@@ -28,10 +30,9 @@ public class ManipulacaoArquivos {
       System.out.println("Arquivo criado e texto escrito com sucesso!");
     } catch (IIOException e) {
       System.out.println("Erro ao escrever no arquivo: " + e.getMessage());
+    } catch (IOException e) {
+      throw new RuntimeException(e);
     }
 
   }
-
-
-
 }

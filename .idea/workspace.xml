@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e7268e-d418-4b81-a91b-744d43551a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secao25/LambdaComCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraComInterfaceFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraPersonalizada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao26/CalculadoraTradicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao27/ExemploIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao27/ExemploNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secao27/Saudacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao28/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secao28/ExemploSerializacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZeoLancandoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExceptionDivisaoPorZeoLancandoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao25/ExceptionDivisaoPorZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExceptionDivisaoPorZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao25/ExemploObjetosNulos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/ExemploObjetosNulos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secao25/TestArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao24/2/TestArrayException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="89" />
+    <option name="cachedIndexableFilesCount" value="99" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,61 +34,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000004775224528" />
-      <entry key="S2" value="1.0467471439285951" />
-      <entry key="S5" value="1.3027898645876788" />
-      <entry key="S10" value="1.8076224463545412" />
-      <entry key="S30" value="5.063144913692933" />
-      <entry key="S60" value="8.356815497805128" />
-      <entry key="M2" value="11.757844049475118" />
-      <entry key="M5" value="17.286710939350606" />
-      <entry key="M10" value="21.336167167895066" />
-      <entry key="M15" value="23.190193729333135" />
-      <entry key="M30" value="25.530253839681887" />
-      <entry key="H1" value="31.05158633410622" />
-      <entry key="H2" value="52.5407246065064" />
-      <entry key="H4" value="88.41717737320971" />
-      <entry key="D1" value="154.77683223232037" />
-      <entry key="W1" value="171.92457761294122" />
+      <entry key="MS100" value="4.125891000387731E-18" />
+      <entry key="MS500" value="3.335059220591784E-4" />
+      <entry key="S2" value="0.13513750222928297" />
+      <entry key="S5" value="0.44906618645131535" />
+      <entry key="S10" value="0.670128160574513" />
+      <entry key="S30" value="0.9190497837695892" />
+      <entry key="S60" value="1.7566160721332984" />
+      <entry key="M2" value="5.999643201462105" />
+      <entry key="M5" value="23.00358216697418" />
+      <entry key="M10" value="47.10979581237723" />
+      <entry key="M15" value="65.60879858003767" />
+      <entry key="M30" value="100.61028901015902" />
+      <entry key="H1" value="134.3557669346984" />
+      <entry key="H2" value="170.71065089751932" />
+      <entry key="H4" value="217.40505966521337" />
+      <entry key="D1" value="312.8004250389233" />
+      <entry key="W1" value="340.0108376636525" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.105427357600997E-15" />
-      <entry key="MS500" value="0.0014801919594828112" />
-      <entry key="S2" value="0.19614602447418772" />
-      <entry key="S5" value="0.5212328804205606" />
-      <entry key="S10" value="0.7219645977612522" />
-      <entry key="S30" value="0.8971114102697165" />
-      <entry key="S60" value="0.9511513944011893" />
-      <entry key="M2" value="1.036463972590098" />
-      <entry key="M5" value="1.3206479522474361" />
-      <entry key="M10" value="1.5703007302124574" />
-      <entry key="M15" value="1.688450656095923" />
-      <entry key="M30" value="1.838260825197374" />
-      <entry key="H1" value="2.142726927483247" />
-      <entry key="H2" value="3.21706649578679" />
-      <entry key="H4" value="4.943551549987445" />
-      <entry key="D1" value="8.061113845202437" />
-      <entry key="W1" value="8.857477242704995" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000002" />
+      <entry key="S10" value="1.0000000216214653" />
+      <entry key="S30" value="1.006538798228189" />
+      <entry key="S60" value="1.160138829364814" />
+      <entry key="M2" value="1.8370355652254542" />
+      <entry key="M5" value="3.826686430593258" />
+      <entry key="M10" value="6.099089550870093" />
+      <entry key="M15" value="7.618513609788791" />
+      <entry key="M30" value="10.23307308819459" />
+      <entry key="H1" value="12.594461804585729" />
+      <entry key="H2" value="14.905330893058915" />
+      <entry key="H4" value="17.51631286079375" />
+      <entry key="D1" value="22.406367418340782" />
+      <entry key="W1" value="23.754262043833204" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.01251671683733787" />
-      <entry key="MS500" value="0.4168769518779995" />
-      <entry key="S2" value="0.9866642973523495" />
-      <entry key="S5" value="1.652015190429361" />
-      <entry key="S10" value="2.4080703748308188" />
-      <entry key="S30" value="5.874838401609593" />
-      <entry key="S60" value="9.243446849340117" />
-      <entry key="M2" value="12.749174469557438" />
-      <entry key="M5" value="18.57846397146932" />
-      <entry key="M10" value="22.887603316018925" />
-      <entry key="M15" value="24.86468149513612" />
-      <entry key="M30" value="27.36064704866642" />
-      <entry key="H1" value="33.189374573274584" />
-      <entry key="H2" value="55.75344269209374" />
-      <entry key="H4" value="93.35701138155436" />
-      <entry key="D1" value="162.83685520837747" />
-      <entry key="W1" value="180.78188169458616" />
+      <entry key="MS100" value="4.3100732240754615E-4" />
+      <entry key="MS500" value="0.21230672423068045" />
+      <entry key="S2" value="0.7543709155577124" />
+      <entry key="S5" value="1.2123889017656406" />
+      <entry key="S10" value="1.5220631328020067" />
+      <entry key="S30" value="1.8657608116996116" />
+      <entry key="S60" value="2.8757619755621007" />
+      <entry key="M2" value="7.789358642104937" />
+      <entry key="M5" value="26.762292526259653" />
+      <entry key="M10" value="53.13965570007394" />
+      <entry key="M15" value="73.16453846410667" />
+      <entry key="M30" value="110.79759199184515" />
+      <entry key="H1" value="146.92097704642484" />
+      <entry key="H2" value="185.59811700898433" />
+      <entry key="H4" value="234.91041590525398" />
+      <entry key="D1" value="335.2042858891828" />
+      <entry key="W1" value="363.7647140357845" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -146,6 +137,7 @@
     "Application.ExemploMap.executor": "Run",
     "Application.ExemploNIO.executor": "Run",
     "Application.ExemploObjetosNulos.executor": "Run",
+    "Application.ExemploSerializacao.executor": "Run",
     "Application.ExemploSet.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.FolhaDePagamento (1).executor": "Run",
@@ -225,65 +217,13 @@
       <recent name="G:\Meu Drive\Cursos\Programming\JAVA\JAVA_COMPLETO_ARNALDO_SOUSA\src\secao17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploNIO">
-    <configuration name="CalculadoraComInterfaceFuncional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao26.CalculadoraComInterfaceFuncional" />
+  <component name="RunManager">
+    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao28.ExemploSerializacao" />
       <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculadoraPersonalizada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao26.CalculadoraPersonalizada" />
-      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao27.ExemploIO" />
-      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao27.ExemploNIO" />
-      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Saudacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao27.Saudacao" />
-      <module name="JAVA_COMPLETO_ARNALDO_SOUSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secao27.*" />
+          <option name="PATTERN" value="secao28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,11 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploNIO" />
-        <item itemvalue="Application.ExemploIO" />
-        <item itemvalue="Application.Saudacao" />
-        <item itemvalue="Application.CalculadoraPersonalizada" />
-        <item itemvalue="Application.CalculadoraComInterfaceFuncional" />
+        <item itemvalue="Application.ExemploSerializacao" />
       </list>
     </recent_temporary>
   </component>
